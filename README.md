@@ -2,7 +2,7 @@
 -         I tend to go by Bug or Cue for fun but Shey is just as good!
 - 👀 I’m interested in data analytics and cyber security
 - 🌱 I’m currently learning data analytics in a bootcamp with UT
-- 💞️ I’m looking to collaborate on nothing currently since I'm doing the school thing, but after that I look forward to many projects!
+- 💞️ I’m looking to collaborte 
 - 📫 How to reach me, shoot me an email at shey.patterson01@gmail.com
 
 <!---
