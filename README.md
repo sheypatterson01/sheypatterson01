@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sheypatterson01
--         I tend to go by Bug or Cue for fun but Shey is just as good!
-- 👀 I’m interested in data analytics and cyber security
-- 🌱 I’m currently learning data analytics in a bootcamp with UT
+- 👀 I’m interested Software Development and Cyber Security
+- 🌱 I’m currently looking to learn about any and everything I can get my hands on
 - 💞️ I’m looking to collaborte 
 - 📫 How to reach me, shoot me an email at shey.patterson01@gmail.com
 
